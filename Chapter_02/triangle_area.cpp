@@ -32,3 +32,4 @@ int main() {
     calculateTriangleArea();
     return 0;
 }
+
